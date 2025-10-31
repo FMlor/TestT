@@ -1,0 +1,11 @@
+{
+  "name": "Star #1",
+  "symbol": "SPACE",
+  "description": "A test NFT star on Solana Devnet.",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Type", "value": "Star" },
+    { "trait_type": "Color", "value": "Blue" }
+  ]
+
+}
